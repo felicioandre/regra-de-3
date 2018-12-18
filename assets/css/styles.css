@@ -1,0 +1,61 @@
+body {
+  background-color: #f4f4f4;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
+
+header {
+  padding: 50px 0;
+  background-color: #454545;
+  color: #FFF;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 50px;
+  margin: 0;
+}
+
+.resultado label {
+  color: #c0392b;
+  font-weight: 700;
+}
+
+.resultado .form-control {
+  font-weight: 700;
+  background-color: #ecf0f1;
+}
+
+footer p {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+footer .social {
+  font-size: 36px;
+  margin: 0 5px;
+  -webkit-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
+}
+
+footer .social:hover {
+  text-decoration: none;
+  opacity: .75;
+}
+
+footer .social-github {
+  color: #333;
+}
+
+footer .social-facebook {
+  color: #3b5998;
+}
+
+footer .social-twitter {
+  color: #1da1f2;
+}
+
+footer .social-linkedin {
+  color: #0077b5;
+}
+/*# sourceMappingURL=styles.css.map */
